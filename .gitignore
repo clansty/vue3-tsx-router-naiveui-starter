@@ -12,3 +12,4 @@ dist-ssr
 !.yarn/versions
 .directory
 yarn-error.log
+result
