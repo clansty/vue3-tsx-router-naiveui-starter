@@ -13,3 +13,4 @@ dist-ssr
 .directory
 yarn-error.log
 result
+.direnv
